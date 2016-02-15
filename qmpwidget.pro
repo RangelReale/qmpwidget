@@ -6,4 +6,4 @@
 TEMPLATE = subdirs
 SUBDIRS += src demo
 
-CONFIG += ordered
+CONFIG += release ordered
